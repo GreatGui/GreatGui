@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/greatgui"><img src="https://api.daily.dev/devcards/v2/nOKrYVIWQftapuww0aMFP.png?type=default&r=re4" width="356" alt="Guilherme's Dev Card"/></a>
+
 <!--
-**GreatGui/GreatGui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
